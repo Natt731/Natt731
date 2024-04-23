@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Natt731
-- 👀 I’m interested in ... Coding, Music, Gaming, Anime, Soccer
-- 🌱 I’m currently learning ... Anything
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Coding, Music, Gaming, Anime, Soccer
+- 🌱 I’m currently learning: Anything that seems fun and helpful. 
 - 📫 How to reach me ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: B) 
 
 <!---
 Natt731/Natt731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
