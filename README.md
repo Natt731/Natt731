@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year Student of Bachelor of Science in Computer Science at University of the Immaculate Conception.<br>Personal Github Account. <br><br>I code. <br>
+Personal Github Account. <br> 1st Year Student of Bachelor of Science in Computer Science at University of the Immaculate Conception. <br> <br>I code. <br>
 
 
 # 💻 Tech Stack:
